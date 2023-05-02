@@ -1,0 +1,53 @@
+.searched-movies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .search-form {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  
+  .movie-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    max-width: 200px;
+    flex-basis: calc(33.33% - 20px);
+  }
+  
+  
+  .movie-poster {
+    width: 150px;
+    height: 225px;
+    margin-bottom: 10px;
+  }
+  
+  .movie-title {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .save-movies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  

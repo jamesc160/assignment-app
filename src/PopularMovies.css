@@ -1,0 +1,22 @@
+.save-movies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .save-movies form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .popular-movies-title {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .select-a-movie {
+    text-align: center;
+    margin-top: 20px;
+  }
